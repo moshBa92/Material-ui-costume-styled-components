@@ -12,7 +12,6 @@ This project is a collection of custom-styled components built with React and Ma
 ## Technologies Used
 
 - [React](https://reactjs.org/)
-- [Material-UI](https://material-ui.com/)
 - [styled-components](https://styled-components.com/)
 
 ## Contributing
